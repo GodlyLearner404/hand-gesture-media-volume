@@ -14,6 +14,9 @@ Built with Python, OpenCV, MediaPipe, and pycaw.
 - Calculates distance between thumb and index finger
 - Maps this to system volume using pycaw
 
+# Demo
+ ![Demo](visual/demo.gif)
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
