@@ -1,0 +1,7 @@
+### ✅ `requirements.txt`
+# Put all libraries here:
+```txt
+opencv-python
+mediapipe
+pycaw
+comtypes 
