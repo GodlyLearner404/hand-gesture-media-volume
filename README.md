@@ -17,4 +17,4 @@ Built with Python, OpenCV, MediaPipe, and pycaw.
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python volume-con.py
+python volume_controller.py
