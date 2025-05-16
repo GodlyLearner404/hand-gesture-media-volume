@@ -21,3 +21,7 @@ Built with Python, OpenCV, MediaPipe, and pycaw.
 ```bash
 pip install -r requirements.txt
 python volume_controller.py
+```
+
+## 🛑 How to stop
+Just press key 'q'
